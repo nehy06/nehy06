@@ -7,14 +7,16 @@ I am a Marketing Data Analyst
 I am currently a PhD student in the field of applied mathematics focusing on decision-making and optimization in the field of online marketing.
 
 *   🌍  I'm based in Prague
-*   🧠  I'm learning Python and SQL### Skills
+*   🧠  I'm learning Python and SQL
+
+Skills:
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"   alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
 </p>
 
-### Socials
+Socials:
                   
 <p align="left">
 <a href="https://www.github.com/nehy06" target="_blank" rel="noreferrer">
