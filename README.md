@@ -6,8 +6,8 @@ I am a Marketing Data Analyst
 
 I am currently a PhD student in the field of applied mathematics focusing on decision-making and optimization in the field of online marketing.
 
-*   🌍  I'm based in Prague
-*   🧠  I'm learning Python and SQL
+*   🌍  Based in Prague
+*   🧠  Python and SQL
 
 Skills:
 
