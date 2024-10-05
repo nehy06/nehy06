@@ -11,9 +11,7 @@ Feel free to explore, and if you're a student or colleague, don't hesitate to re
 
 Check out my ORCID <a href="https://orcid.org/0000-0002-7695-6194" target="_blank" rel="noreferrer">here</a>.
 
-
 *   🌍  Based in Prague
-*   🧠  Python and SQL
 
 Skills:
 
