@@ -1,10 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tereza
 ==============================================================================================================================
 
-I am a Marketing Data Analyst
+Welcome to My GitHub!
 -----------------------------
+I'm a PhD candidate in Applied Mathematics with a passion for data analysis, specializing in operational research, linear programming, and optimization. My work revolves around Python and SQL, where I delve into advanced data analysis, statistical methods, and optimization techniques. I'm also skilled in leveraging Google BigQuery and integrating GA4 with marketing data for insights.
 
-I am currently a PhD student in the field of applied mathematics focusing on decision-making and optimization in the field of online marketing.
+Here, you'll find a mix of projects that showcase my work in data science and marketing analytics. I'm always looking to push my Python skills further, especially in advanced analytics, and continue expanding my expertise in SQL.
+
+Feel free to explore, and if you're a student or colleague, don't hesitate to reach out! Let's make math and data fun and approachable — no scary formulas here, just practical solutions and a friendly atmosphere.
+
+Check out my ORCID <a href="https://orcid.org/0000-0002-7695-6194" target="_blank" rel="noreferrer">here</a>.
+
 
 *   🌍  Based in Prague
 *   🧠  Python and SQL
