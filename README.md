@@ -13,10 +13,15 @@ Check out my ORCID <a href="https://orcid.org/0000-0002-7695-6194" target="_blan
 
 🌍  Based in Prague
 
-Skills:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,gcp,git&perline=4" />
+  </a>
+</p>
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36"   alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=latex,obsidian&perline=4" />
   </a>
 </p>
 
