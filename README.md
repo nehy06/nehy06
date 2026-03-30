@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Welcome to My GitHub!
 -----------------------------
-I'm a PhD candidate in Applied Mathematics with a passion for data analysis, specializing in operational research, linear programming, and optimization. My work revolves around Python and SQL, where I delve into advanced data analysis, statistical methods, and optimization techniques. I'm also skilled in leveraging Google BigQuery and integrating GA4 with marketing data for insights.
+I'm a PhD candidate in Applied Mathematics with a passion for data analysis, specializing in operational research, linear programming, and optimization. My work revolves around Python and SQL, which I mainly use for data analysis, statistical methods, and optimization techniques. I'm also skilled in integrating GA4 with marketing data for insights.
 
 Here, you'll find a mix of projects that showcase my work in data science and marketing analytics. I'm always looking to push my Python skills further, especially in advanced analytics, and continue expanding my expertise in SQL.
 
