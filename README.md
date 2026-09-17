@@ -15,7 +15,7 @@ Check out my ORCID <a href="https://orcid.org/0000-0002-7695-6194" target="_blan
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,gcp,git,docker,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,gcp,git,docker,&perline=5" />
   </a>
 </p>
 
